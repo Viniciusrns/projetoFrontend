@@ -1,0 +1,932 @@
+{
+    "Acre": {
+        "sigla": "AC",
+        "cidades": [
+            "Rio Branco",
+            "Cruzeiro do Sul",
+            "Sena Madureira",
+            "Tarauacá",
+            "Feijó",
+            "Epitaciolândia",
+            "Xapuri",
+            "Brasiléia"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Eletroacre",
+                "Ranking": 47,
+                "Tarifa": 0.94303
+            }
+        ]
+    },
+    "Alagoas": {
+        "sigla": "AL",
+        "cidades": [
+            "Maceió",
+            "Arapiraca",
+            "Palmeira dos Índios",
+            "Rio Largo",
+            "Penedo",
+            "União dos Palmares",
+            "Delmiro Gouveia",
+            "Santana do Ipanema"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Ceal",
+                "Ranking": 14,
+                "Tarifa": 1.04095
+            }
+        ]
+    },
+    "Amapá": {
+        "sigla": "AP",
+        "cidades": [
+            "Macapá",
+            "Santana",
+            "Laranjal do Jari",
+            "Oiapoque",
+            "Porto Grande",
+            "Mazagão",
+            "Tartarugalzinho",
+            "Amapá"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "CEA",
+                "Ranking": 91,
+                "Tarifa": 0.83121
+            }
+        ]
+    },
+    "Amazonas": {
+        "sigla": "AM",
+        "cidades": [
+            "Manaus",
+            "Parintins",
+            "Itacoatiara",
+            "Manacapuru",
+            "Coari",
+            "Tefé",
+            "Tabatinga",
+            "Maués"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "AmE",
+                "Ranking": 9,
+                "Tarifa": 1.02615
+            }
+        ]
+    },
+    "Bahia": {
+        "sigla": "BA",
+        "cidades": [
+            "Salvador",
+            "Feira de Santana",
+            "Vitória da Conquista",
+            "Camaçari",
+            "Itabuna",
+            "Juazeiro",
+            "Ilhéus",
+            "Jequié"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Coelba",
+                "Ranking": 15,
+                "Tarifa": 1.05095
+            }
+        ]
+    },
+    "Ceará": {
+        "sigla": "CE",
+        "cidades": [
+            "Fortaleza",
+            "Caucaia",
+            "Juazeiro do Norte",
+            "Maracanaú",
+            "Sobral",
+            "Crato",
+            "Iguatu",
+            "Itapipoca"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Enel CE",
+                "Ranking": 17,
+                "Tarifa": 1.00434
+            }
+        ]
+    },
+    "Distrito Federal": {
+        "sigla": "DF",
+        "cidades": [
+            "Brasília",
+            "Ceilândia",
+            "Taguatinga",
+            "Samambaia",
+            "Planaltina",
+            "Sobradinho",
+            "Gama",
+            "Recanto das Emas"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "CEB-DIS",
+                "Ranking": 80,
+                "Tarifa": 0.65304
+            }
+        ]
+    },
+    "Espírito Santo": {
+        "sigla": "ES",
+        "cidades": [
+            "Vitória",
+            "Vila Velha",
+            "Serra",
+            "Cariacica",
+            "Linhares",
+            "Colatina",
+            "São Mateus",
+            "Guarapari"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "ELFSM",
+                "Ranking": 40,
+                "Tarifa": 0.83349
+            },
+            {
+                "Distribuidora": "EDP ES",
+                "Ranking": 65,
+                "Tarifa": 0.73885
+            }
+        ]
+    },
+    "Goiás": {
+        "sigla": "GO",
+        "cidades": [
+            "Goiânia",
+            "Aparecida de Goiânia",
+            "Anápolis",
+            "Rio Verde",
+            "Luziânia",
+            "Itumbiara",
+            "Catalão",
+            "Trindade"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "ENEL GO",
+                "Ranking": 48,
+                "Tarifa": 0.74714
+            },
+            {
+                "Distribuidora": "Chesp",
+                "Ranking": 52,
+                "Tarifa": 0.87984
+            }
+        ]
+    },
+    "Maranhão": {
+        "sigla": "MA",
+        "cidades": [
+            "São Luís",
+            "Imperatriz",
+            "Caxias",
+            "Timon",
+            "Codó",
+            "Santa Inês",
+            "Bacabal",
+            "Chapadinha"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Cemar",
+                "Ranking": 43,
+                "Tarifa": 0.90916
+            }
+        ]
+    },
+    "Mato Grosso": {
+        "sigla": "MT",
+        "cidades": [
+            "Cuiabá",
+            "Várzea Grande",
+            "Rondonópolis",
+            "Sinop",
+            "Tangará da Serra",
+            "Barra do Garças",
+            "Cáceres",
+            "Lucas do Rio Verde"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "EMT",
+                "Ranking": 5,
+                "Tarifa": 1.12956
+            }
+        ]
+    },
+    "Mato Grosso do Sul": {
+        "sigla": "MS",
+        "cidades": [
+            "Campo Grande",
+            "Dourados",
+            "Três Lagoas",
+            "Corumbá",
+            "Ponta Porã",
+            "Naviraí",
+            "Nova Andradina",
+            "Sidrolândia"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "EMS",
+                "Ranking": 8,
+                "Tarifa": 1.03101
+            }
+        ]
+    },
+    "Minas Gerais": {
+        "sigla": "MG",
+        "cidades": [
+            "Belo Horizonte",
+            "Uberlândia",
+            "Contagem",
+            "Juiz de Fora",
+            "Betim",
+            "Montes Claros",
+            "Ribeirão das Neves",
+            "Uberaba"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "EMG",
+                "Ranking": 34,
+                "Tarifa": 0.78595
+            },
+            {
+                "Distribuidora": "Cemig-D",
+                "Ranking": 60,
+                "Tarifa": 0.76521
+            },
+            {
+                "Distribuidora": "DMED",
+                "Ranking": 74,
+                "Tarifa": 0.69389
+            }
+        ]
+    },
+    "Pará": {
+        "sigla": "PA",
+        "cidades": [
+            "Belém",
+            "Ananindeua",
+            "Santarém",
+            "Marabá",
+            "Castanhal",
+            "Parauapebas",
+            "Altamira",
+            "Bragança"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Celpa",
+                "Ranking": 12,
+                "Tarifa": 1.1107
+            }
+        ]
+    },
+    "Paraíba": {
+        "sigla": "PB",
+        "cidades": [
+            "João Pessoa",
+            "Campina Grande",
+            "Santa Rita",
+            "Patos",
+            "Bayeux",
+            "Sousa",
+            "Cajazeiras",
+            "Guarabira"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "EPB",
+                "Ranking": 72,
+                "Tarifa": 0.81685
+            },
+            {
+                "Distribuidora": "EBO",
+                "Ranking": 82,
+                "Tarifa": 0.76618
+            }
+        ]
+    },
+    "Paraná": {
+        "sigla": "PR",
+        "cidades": [
+            "Curitiba",
+            "Londrina",
+            "Maringá",
+            "Ponta Grossa",
+            "Cascavel",
+            "São José dos Pinhais",
+            "Foz do Iguaçu",
+            "Colombo"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Forcel",
+                "Ranking": 26,
+                "Tarifa": 0.87772
+            },
+            {
+                "Distribuidora": "Cocel",
+                "Ranking": 66,
+                "Tarifa": 0.66858
+            },
+            {
+                "Distribuidora": "Ceral DIS",
+                "Ranking": 75,
+                "Tarifa": 0.77815
+            },
+            {
+                "Distribuidora": "Copel-DIS",
+                "Ranking": 86,
+                "Tarifa": 0.65554
+            },
+            {
+                "Distribuidora": "Castro - DIS",
+                "Ranking": 103,
+                "Tarifa": 0.52312
+            }
+        ]
+    },
+    "Pernambuco": {
+        "sigla": "PE",
+        "cidades": [
+            "Recife",
+            "Jaboatão dos Guararapes",
+            "Olinda",
+            "Caruaru",
+            "Petrolina",
+            "Paulista",
+            "Cabo de Santo Agostinho",
+            "Garanhuns"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Celpe",
+                "Ranking": 16,
+                "Tarifa": 0.97243
+            }
+        ]
+    },
+    "Piauí": {
+        "sigla": "PI",
+        "cidades": [
+            "Teresina",
+            "Parnaíba",
+            "Picos",
+            "Floriano",
+            "Piripiri",
+            "Campo Maior",
+            "Barras",
+            "União"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Cepisa",
+                "Ranking": 57,
+                "Tarifa": 0.91658
+            }
+        ]
+    },
+    "Rio de Janeiro": {
+        "sigla": "RJ",
+        "cidades": [
+            "Rio de Janeiro",
+            "São Gonçalo",
+            "Duque de Caxias",
+            "Nova Iguaçu",
+            "Niterói",
+            "Campos dos Goytacazes",
+            "Belford Roxo",
+            "Petrópolis"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Ceral Araruama",
+                "Ranking": 1,
+                "Tarifa": 1.81545
+            },
+            {
+                "Distribuidora": "Ceres",
+                "Ranking": 2,
+                "Tarifa": 1.92124
+            },
+            {
+                "Distribuidora": "CERCI",
+                "Ranking": 3,
+                "Tarifa": 1.71696
+            },
+            {
+                "Distribuidora": "Enel RJ",
+                "Ranking": 4,
+                "Tarifa": 1.01231
+            },
+            {
+                "Distribuidora": "Light",
+                "Ranking": 10,
+                "Tarifa": 0.96259
+            },
+            {
+                "Distribuidora": "ENF",
+                "Ranking": 27,
+                "Tarifa": 0.83203
+            }
+        ]
+    },
+    "Rio Grande do Norte": {
+        "sigla": "RN",
+        "cidades": [
+            "Natal",
+            "Mossoró",
+            "Parnamirim",
+            "Caicó",
+            "Macaíba",
+            "Ceará-Mirim",
+            "Assu",
+            "Currais Novos"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Cosern",
+                "Ranking": 33,
+                "Tarifa": 0.93006
+            }
+        ]
+    },
+    "Rio Grande do Sul": {
+        "sigla": "RS",
+        "cidades": [
+            "Porto Alegre",
+            "Caxias do Sul",
+            "Pelotas",
+            "Canoas",
+            "Santa Maria",
+            "Gravataí",
+            "Viamão",
+            "Novo Hamburgo"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "COOPERNORTE",
+                "Ranking": 7,
+                "Tarifa": 1.22265
+            },
+            {
+                "Distribuidora": "Creral",
+                "Ranking": 24,
+                "Tarifa": 0.88914
+            },
+            {
+                "Distribuidora": "CERFOX",
+                "Ranking": 37,
+                "Tarifa": 0.79161
+            },
+            {
+                "Distribuidora": "RGE (agrupada)",
+                "Ranking": 42,
+                "Tarifa": 0.75161
+            },
+            {
+                "Distribuidora": "Hidropan",
+                "Ranking": 44,
+                "Tarifa": 0.79047
+            },
+            {
+                "Distribuidora": "COOPERSUL",
+                "Ranking": 46,
+                "Tarifa": 0.84101
+            },
+            {
+                "Distribuidora": "CEEE-D",
+                "Ranking": 55,
+                "Tarifa": 0.77926
+            },
+            {
+                "Distribuidora": "Creluz-D",
+                "Ranking": 64,
+                "Tarifa": 0.76022
+            },
+            {
+                "Distribuidora": "Uhenpal",
+                "Ranking": 68,
+                "Tarifa": 0.77904
+            },
+            {
+                "Distribuidora": "Cermissões",
+                "Ranking": 69,
+                "Tarifa": 0.73498
+            },
+            {
+                "Distribuidora": "CERTHIL",
+                "Ranking": 71,
+                "Tarifa": 0.73192
+            },
+            {
+                "Distribuidora": "Eletrocar",
+                "Ranking": 76,
+                "Tarifa": 0.80259
+            },
+            {
+                "Distribuidora": "Demei",
+                "Ranking": 77,
+                "Tarifa": 0.74023
+            },
+            {
+                "Distribuidora": "MuxEnergia",
+                "Ranking": 79,
+                "Tarifa": 0.6742
+            },
+            {
+                "Distribuidora": "Ceriluz",
+                "Ranking": 92,
+                "Tarifa": 0.64579
+            },
+            {
+                "Distribuidora": "Certaja",
+                "Ranking": 95,
+                "Tarifa": 0.71878
+            },
+            {
+                "Distribuidora": "Cooperluz",
+                "Ranking": 97,
+                "Tarifa": 0.58663
+            },
+            {
+                "Distribuidora": "Certel",
+                "Ranking": 98,
+                "Tarifa": 0.61809
+            },
+            {
+                "Distribuidora": "Coprel",
+                "Ranking": 102,
+                "Tarifa": 0.67469
+            }
+        ]
+    },
+    "Rondônia": {
+        "sigla": "RO",
+        "cidades": [
+            "Porto Velho",
+            "Ji-Paraná",
+            "Ariquemes",
+            "Cacoal",
+            "Vilhena",
+            "Rolim de Moura",
+            "Jaru",
+            "Guajará-Mirim"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Ceron",
+                "Ranking": 89,
+                "Tarifa": 0.74067
+            }
+        ]
+    },
+    "Roraima": {
+        "sigla": "RR",
+        "cidades": [
+            "Boa Vista",
+            "Rorainópolis",
+            "Caracaraí",
+            "Alto Alegre",
+            "Mucajaí",
+            "Pacaraima",
+            "Cantá",
+            "Bonfim"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Roraima Energia",
+                "Ranking": 78,
+                "Tarifa": 0.7266
+            }
+        ]
+    },
+    "Santa Catarina": {
+        "sigla": "SC",
+        "cidades": [
+            "Florianópolis",
+            "Joinville",
+            "Blumenau",
+            "São José",
+            "Chapecó",
+            "Criciúma",
+            "Itajaí",
+            "Lages"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Certrel",
+                "Ranking": 18,
+                "Tarifa": 1.055
+            },
+            {
+                "Distribuidora": "EFLJC",
+                "Ranking": 19,
+                "Tarifa": 0.91402
+            },
+            {
+                "Distribuidora": "Cergal",
+                "Ranking": 20,
+                "Tarifa": 0.9715
+            },
+            {
+                "Distribuidora": "Cerpalo",
+                "Ranking": 23,
+                "Tarifa": 0.948
+            },
+            {
+                "Distribuidora": "CELETRO",
+                "Ranking": 32,
+                "Tarifa": 0.83757
+            },
+            {
+                "Distribuidora": "COOPERZEM",
+                "Ranking": 36,
+                "Tarifa": 0.81745
+            },
+            {
+                "Distribuidora": "Cermoful",
+                "Ranking": 38,
+                "Tarifa": 0.91426
+            },
+            {
+                "Distribuidora": "Coorsel",
+                "Ranking": 39,
+                "Tarifa": 0.83207
+            },
+            {
+                "Distribuidora": "Eflul",
+                "Ranking": 41,
+                "Tarifa": 0.54075
+            },
+            {
+                "Distribuidora": "Cergral",
+                "Ranking": 45,
+                "Tarifa": 0.88295
+            },
+            {
+                "Distribuidora": "Ceral Anitápolis",
+                "Ranking": 53,
+                "Tarifa": 0.80333
+            },
+            {
+                "Distribuidora": "Ceprag",
+                "Ranking": 54,
+                "Tarifa": 0.80843
+            },
+            {
+                "Distribuidora": "Cerej",
+                "Ranking": 56,
+                "Tarifa": 0.83925
+            },
+            {
+                "Distribuidora": "Coopermila",
+                "Ranking": 62,
+                "Tarifa": 0.73531
+            },
+            {
+                "Distribuidora": "Cergapa",
+                "Ranking": 83,
+                "Tarifa": 0.72876
+            },
+            {
+                "Distribuidora": "Cooperaliança",
+                "Ranking": 84,
+                "Tarifa": 0.67227
+            },
+            {
+                "Distribuidora": "Cerbranorte",
+                "Ranking": 85,
+                "Tarifa": 0.69649
+            },
+            {
+                "Distribuidora": "Coopercocal",
+                "Ranking": 87,
+                "Tarifa": 0.72699
+            },
+            {
+                "Distribuidora": "Cejama",
+                "Ranking": 88,
+                "Tarifa": 0.69426
+            },
+            {
+                "Distribuidora": "Ienergia",
+                "Ranking": 90,
+                "Tarifa": 0.67446
+            },
+            {
+                "Distribuidora": "Celesc-DIS",
+                "Ranking": 94,
+                "Tarifa": 0.60062
+            },
+            {
+                "Distribuidora": "Ceraça",
+                "Ranking": 96,
+                "Tarifa": 0.69921
+            },
+            {
+                "Distribuidora": "Cersad",
+                "Ranking": 99,
+                "Tarifa": 0.57686
+            },
+            {
+                "Distribuidora": "Cersul",
+                "Ranking": 100,
+                "Tarifa": 0.61516
+            },
+            {
+                "Distribuidora": "Codesam",
+                "Ranking": 101,
+                "Tarifa": 0.56045
+            },
+            {
+                "Distribuidora": "CEGERO",
+                "Ranking": 104,
+                "Tarifa": 0.48748
+            },
+            {
+                "Distribuidora": "Coopera",
+                "Ranking": 105,
+                "Tarifa": 0.50098
+            }
+        ]
+    },
+    "São Paulo": {
+        "sigla": "SP",
+        "cidades": [
+            "São Paulo",
+            "Campinas",
+            "São Bernardo do Campo",
+            "Santo André",
+            "Guarulhos",
+            "Osasco",
+            "Sorocaba",
+            "Ribeirão Preto"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "CERMC",
+                "Ranking": 6,
+                "Tarifa": 0.89314
+            },
+            {
+                "Distribuidora": "Cedrap",
+                "Ranking": 11,
+                "Tarifa": 1.04338
+            },
+            {
+                "Distribuidora": "Ceripa",
+                "Ranking": 21,
+                "Tarifa": 0.47978
+            },
+            {
+                "Distribuidora": "Cetril",
+                "Ranking": 22,
+                "Tarifa": 0.93549
+            },
+            {
+                "Distribuidora": "Ceris",
+                "Ranking": 25,
+                "Tarifa": 1.02498
+            },
+            {
+                "Distribuidora": "Cedri",
+                "Ranking": 28,
+                "Tarifa": 0.93591
+            },
+            {
+                "Distribuidora": "CPFL Paulista",
+                "Ranking": 29,
+                "Tarifa": 0.7766
+            },
+            {
+                "Distribuidora": "CERRP",
+                "Ranking": 30,
+                "Tarifa": 0.8293
+            },
+            {
+                "Distribuidora": "Cerim",
+                "Ranking": 49,
+                "Tarifa": 0.81857
+            },
+            {
+                "Distribuidora": "EDP SP",
+                "Ranking": 50,
+                "Tarifa": 0.7205
+            },
+            {
+                "Distribuidora": "CERVAM",
+                "Ranking": 51,
+                "Tarifa": 0.8626
+            },
+            {
+                "Distribuidora": "Elektro",
+                "Ranking": 58,
+                "Tarifa": 0.76894
+            },
+            {
+                "Distribuidora": "CPFL Piratininga",
+                "Ranking": 59,
+                "Tarifa": 0.703
+            },
+            {
+                "Distribuidora": "Cerpro",
+                "Ranking": 63,
+                "Tarifa": 0.75652
+            },
+            {
+                "Distribuidora": "CPFL Santa Cruz (agrupada)",
+                "Ranking": 67,
+                "Tarifa": 0.7109
+            },
+            {
+                "Distribuidora": "Cernhe",
+                "Ranking": 70,
+                "Tarifa": 0.71285
+            },
+            {
+                "Distribuidora": "Enel SP",
+                "Ranking": 73,
+                "Tarifa": 0.72447
+            },
+            {
+                "Distribuidora": "ESS (agrupada)",
+                "Ranking": 81,
+                "Tarifa": 0.7067
+            },
+            {
+                "Distribuidora": "Cemirim",
+                "Ranking": 93,
+                "Tarifa": 0.63312
+            }
+        ]
+    },
+    "Sergipe": {
+        "sigla": "SE",
+        "cidades": [
+            "Aracaju",
+            "Nossa Senhora do Socorro",
+            "Lagarto",
+            "Itabaiana",
+            "Estância",
+            "São Cristóvão",
+            "Tobias Barreto",
+            "Simão Dias"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "Cercos",
+                "Ranking": 13,
+                "Tarifa": 1.11197
+            },
+            {
+                "Distribuidora": "ESE",
+                "Ranking": 31,
+                "Tarifa": 0.93518
+            },
+            {
+                "Distribuidora": "Sulgipe",
+                "Ranking": 61,
+                "Tarifa": 0.8348
+            }
+        ]
+    },
+    "Tocantins": {
+        "sigla": "TO",
+        "cidades": [
+            "Palmas",
+            "Araguaína",
+            "Gurupi",
+            "Porto Nacional",
+            "Paraíso do Tocantins",
+            "Colinas do Tocantins",
+            "Guaraí",
+            "Tocantinópolis"
+        ],
+        "distribuidoras": [
+            {
+                "Distribuidora": "ETO",
+                "Ranking": 35,
+                "Tarifa": 0.98739
+            }
+        ]
+    }
+}
